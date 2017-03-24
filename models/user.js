@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 mongoose.connect('mongodb://user:user@ds135577.mlab.com:35577/socialdb');
 var db = mongoose.connection;
 
-//User Schema
+// User Schema
 var UserShema = mongoose.Schema({
   pseudo: {
     type: String,
