@@ -1,3 +1,15 @@
 
 /node_modules/
 /.idea/
+/colors.scheme.xml
+/vcs.xml
+/web-browsers.xml
+/github_settings.xml
+/ide.general.xml
+/_windows/
+/debugger.xml
+/diff.xml
+/IntelliLang.xml
+/ui.lnf.xml
+/project.default.xml
+/inspection/
